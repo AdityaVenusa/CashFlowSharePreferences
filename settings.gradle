@@ -1,0 +1,2 @@
+rootProject.name='Cashflow Shared Preferences'
+include ':app'
